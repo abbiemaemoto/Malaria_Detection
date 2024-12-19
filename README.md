@@ -1,2 +1,2 @@
-# Malaria_Detection
-This study offers a ML approach to detecting malaria infection in blood cell samples
+# A Machine Learning Approach to Detecting Malaria Infection in Blood Cells
+
